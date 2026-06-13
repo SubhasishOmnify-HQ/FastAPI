@@ -1,0 +1,42 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "Aarav Sharma",
+    "age": 32,
+    "gender": "Male",
+    "blood_group": "O+",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patient_id": "P002",
+    "name": "Priya Patel",
+    "age": 28,
+    "gender": "Female",
+    "blood_group": "A+",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patient_id": "P003",
+    "name": "Rahul Verma",
+    "age": 45,
+    "gender": "Male",
+    "blood_group": "B+",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patient_id": "P004",
+    "name": "Neha Singh",
+    "age": 36,
+    "gender": "Female",
+    "blood_group": "AB+",
+    "diagnosis": "Migraine"
+  },
+  {
+    "patient_id": "P005",
+    "name": "Vikram Rao",
+    "age": 51,
+    "gender": "Male",
+    "blood_group": "O-",
+    "diagnosis": "Arthritis"
+  }
+]
